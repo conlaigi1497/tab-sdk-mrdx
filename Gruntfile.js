@@ -8,7 +8,7 @@ module.exports = function(grunt) {
     livereload: 35729,
     src: 'src',
     dist: 'dist',
-    name: 'scrollbar-sdk-new-mrdx'
+    name: 'tab-sdk-mrdx'
   };
 
   // Livereload setup

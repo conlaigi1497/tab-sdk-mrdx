@@ -1,5 +1,5 @@
 {
-  "name": "scrollbar-sdk-new-mrdx",
+  "name": "tab-sdk-mrdx",
   "version": "0.0.8",
   "main": "dist/ng-scrollbar.min.js",
   "description": "A custom scrollbar written in pure AngularJS",
@@ -8,15 +8,15 @@
     "angularjs",
     "scrollbar"
   ],
-  "homepage": "https://github.com/conlaigi1497/scrollbar-sdk-new-mrdx",
-  "bugs": "https://github.com/conlaigi1497/scrollbar-sdk-new-mrdx/issues",
+  "homepage": "https://github.com/conlaigi1497/tab-sdk-mrdx",
+  "bugs": "https://github.com/conlaigi1497/tab-sdk-mrdx/issues",
   "author": {
     "name": "MrDx",
     "email": "conlaigi1497@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/conlaigi1497/scrollbar-sdk-new-mrdx.git"
+    "url": "https://github.com/conlaigi1497/tab-sdk-mrdx.git"
   },
   "licenses": [
     {
